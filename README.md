@@ -14,13 +14,14 @@ Creating a pomodoro project for students
 - Depois de 4 pomodoros ativar um intervalo longo de 15min;
 - Botão para pausar e retornar ao contador;
 - Avisos sonoros para cada início e fim;
-- Ativar função de ir no automático para a príxima etapa do pomodoro;
+- Ativar função de ir no automático para a príxima etapa do pomodoro.
 
-Extra
+###Extra
 
 - Notificações no navegador para cada aviso de início e fim;
 - Configurar a quantidade de tempo de um bloco de trabalho e um bloco de intervalo;
 - Teruma lista de tarefas executadas;
-- Salvar o status no localstorage para se a aba for encerrada
-- Extensão do navegador
-- 
+- Salvar o status no localstorage para se a aba for encerrada;
+- Extensão do navegador;
+- Alterar o tema;
+- Função de esconder o timer;
